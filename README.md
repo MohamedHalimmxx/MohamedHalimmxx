@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-halim-ba6703275 )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-halim-ba6703275)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.halimmxx@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/N/A)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://N/A)
@@ -29,22 +29,37 @@
 
 ```python
 class AgenticAIEngineer:
-    name       = "Mohamed Abdulhalim Mohamed Yassin"
-    location   = "Cairo, Egypt 🇪🇬"
-    education  = [
-        "B.Sc. Computer Science & Artificial Intelligence",
-        "M.Sc. Artificial Intelligence (In Progress)"
-    ]
-    roles = [
-        "Generative AI Intern @ Orange Innovation Egypt",
-        "Agentic AI Engineer @ NEXT Technology Development",
-        "AI Instructor @ NTI"
-    ]
-    focus      = ["Agentic AI", "LLM Engineering", "RAG Systems", "Multi-Agent Systems"]
-    philosophy = "AI agents should reason, plan, and act — not just respond."
+    def __init__(self):
+        self.name = "Mohamed Abdulhalim Mohamed Yassin"
+        self.location = "Cairo, Egypt 🇪🇬"
+
+        self.education = [
+            "B.Sc. in Computer Science & Artificial Intelligence",
+            "M.Sc. in Artificial Intelligence (In Progress)"
+        ]
+
+        self.roles = [
+            "Generative AI Intern @ Orange Innovation Egypt",
+            "Agentic AI Engineer @ NEXT Technology Development",
+            "AI Instructor @ NTI"
+        ]
+
+        self.specializations = [
+            "Agentic AI",
+            "LLM Engineering",
+            "RAG Systems",
+            "Multi-Agent Systems",
+            "AI Infrastructure"
+        ]
+
+        self.philosophy = (
+            "AI agents should reason, plan, and act — not just respond."
+        )
 ```
 
-I build **agentic AI systems** that can reason, plan, and act autonomously. My work spans the full stack of modern AI engineering: from designing multi-agent orchestration pipelines and RAG architectures to fine-tuning LLMs and deploying production-ready AI backends. Currently pursuing my M.Sc. in AI while working at the intersection of **Generative AI, Agentic Systems, and AI Infrastructure**.
+I build intelligent agentic systems capable of reasoning, planning, memory handling, and autonomous decision-making.
+My work focuses on designing scalable LLM-powered architectures, multi-agent orchestration pipelines, RAG systems, and production-ready AI backends using modern AI engineering frameworks.
+Currently pursuing my M.Sc. in Artificial Intelligence while working at the intersection of Generative AI, Agentic Systems, and AI Infrastructure.
 
 ---
 
@@ -232,10 +247,10 @@ If you're building something ambitious in the AI space — let's connect.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/YOUR_HANDLE)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://linkedin.com/in/mohamed-halim-ba6703275))
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.halimmxx@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/N/A)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedhalimm)
 
 </div>
 
