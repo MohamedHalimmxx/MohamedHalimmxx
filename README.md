@@ -1,248 +1,252 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Mohamed+Abdulhalim;Agentic+AI+%7C+Generative+AI+Engineer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1200&color=A0AEC0&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=Building+Intelligent+Agents+%F0%9F%A4%96;Engineering+LLM+Systems+at+Scale+%F0%9F%A7%A0;RAG+%7C+Multi-Agent+%7C+Generative+AI+%F0%9F%9A%80;M.Sc.+AI+Candidate+%7C+Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC)](https://git.io/typing-svg)
+<!-- Typing SVG Hero -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Muhammed+Abdulhalim;Agentic+AI+Engineer+%7C+Generative+AI+Engineer;Building+Intelligent+Systems+That+Think)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/YOUR_USERNAME)
+<!-- Subtitle badges -->
+![AI Engineer](https://img.shields.io/badge/Agentic%20AI%20Engineer-00D9FF?style=for-the-badge&logo=openai&logoColor=black)
+![Gen AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM Engineer](https://img.shields.io/badge/LLM%20Engineer-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
 ```python
-class AIEngineer:
-    name        = "Mohamed Abdulhalim Mohamed Yassin"
-    title       = "Agentic AI Engineer | Generative AI Engineer | AI Software Engineer"
-    location    = "Cairo, Egypt 🇪🇬"
-    education   = [
+class AgenticAIEngineer:
+    name       = "Mohamed Abdulhalim Mohamed Yassin"
+    location   = "Cairo, Egypt 🇪🇬"
+    education  = [
         "B.Sc. Computer Science & Artificial Intelligence",
         "M.Sc. Artificial Intelligence (In Progress)"
     ]
-    roles       = [
+    roles = [
         "Generative AI Intern @ Orange Innovation Egypt",
-        "Agentic AI Intern @ NEXT Technology Development",
+        "Agentic AI Engineer @ NEXT Technology Development",
         "AI Instructor @ NTI"
     ]
-    interests   = [
-        "Multi-Agent Systems", "LLM Engineering", "RAG Pipelines",
-        "AI Reasoning & Planning", "Generative Models", "NLP"
-    ]
-    currently   = "Designing autonomous AI agents that reason, plan, and act."
+    focus      = ["Agentic AI", "LLM Engineering", "RAG Systems", "Multi-Agent Systems"]
+    philosophy = "AI agents should reason, plan, and act — not just respond."
 ```
+
+I build **agentic AI systems** that can reason, plan, and act autonomously. My work spans the full stack of modern AI engineering: from designing multi-agent orchestration pipelines and RAG architectures to fine-tuning LLMs and deploying production-ready AI backends. Currently pursuing my M.Sc. in AI while working at the intersection of **Generative AI, Agentic Systems, and AI Infrastructure**.
 
 ---
 
-## `> expertise --domain AI`
+## What I'm Building Now
+
+- **Agentic AI Systems** — Multi-agent pipelines with tool use, memory, and autonomous planning
+- **RAG Architectures** — Production-grade retrieval-augmented generation with hybrid search
+- **LLM Orchestration** — LangGraph & CrewAI workflows for complex reasoning tasks
+- **AI Backend APIs** — High-performance FastAPI services powering AI-native applications
+- **M.Sc. Research** — Deep diving into advanced agentic reasoning and multi-agent coordination
+
+---
+
+## AI Expertise
 
 <div align="center">
 
-| Domain | Specialization |
-|--------|---------------|
-| 🤖 **Agentic AI** | Multi-Agent Systems, Tool Calling, Reasoning & Planning Agents |
-| 🧠 **LLM Engineering** | Fine-tuning, Prompt Engineering, LangChain, LangGraph, AutoGen |
-| 🔍 **RAG Systems** | Vector Search, Hybrid Retrieval, Reranking, Knowledge Graphs |
-| 🏗️ **AI Backend** | FastAPI, REST, GraphQL, Async Pipelines, Streaming APIs |
-| 🔬 **ML / DL** | TensorFlow, PyTorch, Transformers, Computer Vision, NLP |
-| ⚙️ **MLOps** | LangSmith, MLflow, Docker, Kubernetes, CI/CD |
+| Domain | Stack |
+|--------|-------|
+| **Agentic AI** | Multi-Agent Systems · Tool Calling · Reasoning Agents · Planning · Memory |
+| **LLM Engineering** | LangChain · LangGraph · CrewAI · AutoGen · LlamaIndex |
+| **RAG Systems** | Hybrid Search · Reranking · FAISS · ChromaDB · Pinecone |
+| **NLP** | Transformers · Hugging Face · Seq2Seq · NER · Fine-tuning |
+| **Computer Vision** | Vision Transformers · Object Detection · Defect Inspection |
+| **Generative AI** | GANs · Diffusion Concepts · Multimodal Models |
+| **MLOps** | MLflow · LangSmith · Docker · Kubernetes · CI/CD |
 
 </div>
 
 ---
 
-## `> tech --stack`
+## Tech Arsenal
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI / ML Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**LLM & Agentic AI**
+**LLM & Agentic Stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00D4FF?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logo=langchain&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B35?style=for-the-badge&logo=llama&logoColor=white)
 
 **Vector Databases**
 
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**MLOps & DevOps**
+**MLOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend Exposure**
-
+ 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## `> projects --featured`
+## Featured AI Projects
 
-<details>
-<summary><b>🛒 AI Shopping Assistant</b> — Multi-Agent Product Intelligence</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> An end-to-end multi-agent system that autonomously handles product discovery, comparison, and personalized recommendations. Orchestrated with LangGraph and powered by tool-calling agents with real-time web integration.
+### AI Shopping Assistant
+**Multi-agent AI system** for intelligent product analysis and recommendations. Agents collaborate using tool calling, memory, and reasoning to deliver personalized shopping experiences.
 
-**Stack:** `LangGraph` `LangChain` `RAG` `FastAPI` `ChromaDB` `Streaming`
+`LangGraph` `CrewAI` `RAG` `FastAPI` `Multi-Agent`
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🎬 HALIMOZ AI</b> — Intelligent Video Summarization Platform</summary>
+### HALIMOZ AI
+**AI video summarization platform** with automated transcription, semantic analysis, and structured PDF reporting. End-to-end pipeline from video ingestion to insight delivery.
 
-> AI platform that ingests long-form video content, generates accurate transcriptions, produces structured summaries, and delivers professional PDF reports — all through a single agentic pipeline.
+`Whisper` `LLMs` `PDF Generation` `FastAPI` `NLP`
 
-**Stack:** `Whisper` `LLMs` `LangChain` `PDF Generation` `FastAPI` `React`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### HALIMZ AI Search & Chat
+**Agentic search and chat system** with real-time web search, streaming responses, and contextual memory. Combines retrieval-augmented generation with live internet access.
 
-<details>
-<summary><b>🔍 HALIMZ AI Search & Chat</b> — Agentic Web Intelligence</summary>
+`LangGraph` `RAG` `Streaming` `Web Search` `Agents`
 
-> Real-time agentic search and conversational AI system with live web search capabilities, source attribution, streaming responses, and multi-turn memory. Built for research and knowledge retrieval at speed.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** `LangGraph` `Tool Calling` `Web Search` `Streaming` `Vector DB` `FastAPI`
+### FaultLens
+**AI-powered industrial defect inspection** combining computer vision, RAG pipelines, and multi-agent reasoning to detect, analyze, and report manufacturing defects.
 
-</details>
+`CV` `RAG` `Multi-Agent` `Defect Detection` `PyTorch`
 
-<details>
-<summary><b>🔬 FaultLens</b> — AI-Powered Industrial Defect Detection</summary>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> Production-grade defect inspection system combining Computer Vision for visual anomaly detection, RAG for knowledge-grounded diagnostics, and multi-agents for automated root-cause analysis and reporting.
+### Synthetic Data via GANs
+Research project implementing **Generative Adversarial Networks** for high-fidelity synthetic tabular and image data generation to address data scarcity in ML pipelines.
 
-**Stack:** `Computer Vision` `RAG` `Multi-Agent` `LangChain` `PyTorch` `FastAPI`
+`PyTorch` `GANs` `Data Augmentation` `Deep Learning`
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🧬 Synthetic Data Generation using GANs</b></summary>
+### Neural Machine Translation
+**Seq2Seq architecture** with attention mechanisms for Arabic-English neural machine translation, exploring encoder-decoder dynamics and attention alignment.
 
-> Deep generative modeling research project building GAN architectures for synthesizing realistic structured and unstructured data for AI training pipelines.
+`Transformers` `Seq2Seq` `Attention` `NLP` `PyTorch`
 
-**Stack:** `PyTorch` `GANs` `Deep Learning` `Data Augmentation`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
 
-</details>
+### Vision Transformer Video Retrieval
+Semantic **video retrieval system** leveraging Vision Transformers (ViT) for frame-level embeddings and similarity-based search across large video corpora.
 
-<details>
-<summary><b>🌐 Seq2Seq Neural Machine Translation</b></summary>
+`ViT` `Embeddings` `Similarity Search` `Computer Vision` `FAISS`
 
-> Attention-based sequence-to-sequence NMT system with encoder-decoder architecture, custom tokenization, and beam search decoding for high-quality translation.
-
-**Stack:** `PyTorch` `Transformers` `Attention Mechanism` `NLTK` `NLP`
-
-</details>
-
-<details>
-<summary><b>🎥 Vision Transformer Video Retrieval System</b></summary>
-
-> Semantic video retrieval system using Vision Transformers (ViT) for frame-level embeddings, enabling similarity search across large video corpora.
-
-**Stack:** `ViT` `PyTorch` `FAISS` `Computer Vision` `Embeddings`
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## `> focus --current`
+## Current Learning Journey
 
 ```
-▸ Designing stateful, memory-aware multi-agent architectures with LangGraph
-▸ Advancing RAG pipelines: hybrid retrieval, reranking, knowledge graphs
-▸ Exploring LLM reasoning: ReAct, CoT, Tree-of-Thought, reflection loops
-▸ Building production-grade AI backends with FastAPI + async streaming
-▸ M.Sc. research in Artificial Intelligence
+M.Sc. AI Research     ████████████████░░░░   80% — Advanced Agentic Reasoning
+LLM Fine-Tuning       ██████████████░░░░░░   70% — RLHF & Alignment Techniques
+Distributed ML        ████████████░░░░░░░░   60% — Multi-Node Training
+Rust for AI Systems   ██████░░░░░░░░░░░░░░   30% — Exploring High-Performance AI
 ```
 
 ---
 
-## `> stats --github`
+## Open Source & Collaboration
+
+I'm actively looking to collaborate on:
+
+- Multi-agent AI frameworks and orchestration tools
+- Open-source RAG systems and knowledge retrieval
+- LLM evaluation and benchmarking infrastructure
+- AI-powered developer tools and productivity systems
+
+If you're building something ambitious in the AI space — let's connect.
+
+---
+
+## Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=A0AEC0&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=A0AEC0&bg_color=0D1117&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0AEC0)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/YOUR_HANDLE)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_HANDLE)
 
 </div>
 
 ---
 
-## `> contact --open-to`
-
 <div align="center">
 
-I am open to **remote AI engineering roles**, **research collaborations**, **freelance LLM/agent projects**, and **open-source contributions** in the AI/ML space.
+*"The goal is not to build AI that answers questions — it's to build AI that asks the right ones."*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
-*"The measure of intelligence is the ability to change."* — Alan Turing
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
